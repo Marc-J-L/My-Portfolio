@@ -73,6 +73,12 @@ li {
   background-color: rgb(162, 204, 204);
 }
 
+.line01 {
+  height: 3px;
+  background-color: rgb(255, 148, 42, 0.8);
+
+}
+
 #introduce {
   display: flex;
   padding-left: 90px;
@@ -80,8 +86,8 @@ li {
   justify-content: space-between;
   align-items:center;
   background-color: rgb(255, 255, 255);
-  height:250px;
-  padding-top: 100px;
+
+
 }
 
 .tss {
@@ -98,20 +104,6 @@ li {
   padding-right: 50px;
 }
 
-.ss {
-  display: flex;
-  font-size:small;
-  align-items:baseline;
-  color: black;
-  width: 300px;
-  justify-content: space-between;
-}
-
-.star {
-  font-size: 24px;            
-               
-  display: inline-block;
-}
 
 .ss:hover {
   color: rgb(255, 148, 42, 0.8);
@@ -131,14 +123,8 @@ li {
   font-size:x-large;
 }
 
-#line01 {
-  height: 3px;
-  background-color: rgb(255, 148, 42, 0.8);
-  margin-bottom: 100px;
-  
-}
-
 .techSkill {
+  margin-top: 50px;
   text-align: center;
 }
 
