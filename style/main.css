@@ -16,11 +16,6 @@ body {
   margin: 0 auto;
 }
 
-
-.jie {
-  color: gray; 
-}
-
 h2 {
   color: rgb(100, 100, 100);
 }
@@ -73,7 +68,7 @@ li {
   background-color: rgb(162, 204, 204);
 }
 
-.line01 {
+#line01 {
   height: 3px;
   background-color: rgb(255, 148, 42, 0.8);
 
@@ -115,13 +110,9 @@ li {
   border-radius: 50%;       
   overflow: hidden;
 
-  margin: 50px;
+  margin: 50px auto;
 }
 
-#myText {
-  width: 600px;
-  font-size:x-large;
-}
 
 .techSkill {
   margin-top: 50px;
