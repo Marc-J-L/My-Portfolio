@@ -134,11 +134,10 @@ li {
 }
 
 #myProject {
-  
-  text-align: center;
   justify-content: center;
 }
 .mp01 {
+
   display: flex;
   justify-content:space-evenly;
   margin-bottom: 50px;
@@ -241,10 +240,6 @@ li {
   margin-top: 60px;
 }
 
-.contact {
-  
-  text-align: center;
-}
 
 .contactLine {
   display: flex;
