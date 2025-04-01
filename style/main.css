@@ -249,17 +249,12 @@ li {
 
 .icontext {
   display: flex;
-  
   justify-content:left;
   align-items: baseline;
   padding-right: 18px;
 }
 
-.contact-icons {
-  display: flex;
-  gap: 20px; 
-  font-size: 18px; 
-}
+
 
 .contact-icons i {
   color: gray;
