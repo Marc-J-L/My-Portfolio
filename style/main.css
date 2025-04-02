@@ -143,31 +143,15 @@ li {
 
   display: flex;
   justify-content:space-evenly;
-  margin-bottom: 50px;
+  flex-wrap: wrap;
+  gap: 20px;
 }
 
-.mp02 {
-  display: flex;
-  justify-content:space-evenly;
-  margin-bottom: 50px;
-}
-
-.mp03 {
-  display: flex;
-  justify-content:space-evenly;
-  margin-bottom: 50px;
-}
 
 .pp {
   width: 300px; 
   height: 200px;
 
-}
-
-.image-gallery {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 16px;
 }
 
 .image-container {
